@@ -62,7 +62,7 @@ The project is based on a relational database consisting of the following entiti
 
 Example:
 
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](images/ER-Diagram.png)
 
 ---
 
