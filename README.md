@@ -12,10 +12,6 @@ The dashboard enables analysis of booking behavior, route performance, class-wis
 
 ### Main Dashboard
 
-[Insert Dashboard Screenshot Here]
-
-Example:
-
 ![Dashboard Overview](images/Dashboard.png)
 
 ---
@@ -57,10 +53,6 @@ The project is based on a relational database consisting of the following entiti
 - Class
 
 ### Entity Relationship Diagram
-
-[Insert ER Diagram Here]
-
-Example:
 
 ![ER Diagram](images/ER-Diagram.png)
 
