@@ -165,7 +165,7 @@ Airline_Booking_Analytics/
 
 ## Author
 
-**Vasu**
+**Jyoti Basu**
 
 Aspiring Data Analyst with interests in SQL, Tableau, Python, Data Visualization, and Business Analytics.
 
