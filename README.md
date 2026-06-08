@@ -160,28 +160,6 @@ Airline_Booking_Analytics/
 └── README.md
 ```
 
----
-
-## Dashboard Screenshots
-
-### KPI Overview
-
-[Insert KPI Screenshot Here]
-
-### Booking Status Analysis
-
-[Insert Donut Chart Screenshot Here]
-
-### Route Analysis
-
-[Insert Route Analysis Screenshot Here]
-
-### Geographic Distribution
-
-[Insert Map Screenshot Here]
-
----
-
 ## Future Enhancements
 
 - Revenue Analytics
