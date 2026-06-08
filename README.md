@@ -16,7 +16,7 @@ The dashboard enables analysis of booking behavior, route performance, class-wis
 
 Example:
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/Dashboard.png)
 
 ---
 
