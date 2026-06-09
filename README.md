@@ -1,6 +1,6 @@
 # Airline Booking Analytics Dashboard
 
-[![Live Dashboard](https://img.shields.io/badge/LIVE_DASHBOARD-0047CC?style=for-the-badge&logo=tableau&logoColor=white)](YOUR_TABLEAU_LINK)
+[![Live Dashboard](https://img.shields.io/badge/LIVE_DASHBOARD-0047CC?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/AirlineBookingAnalyticsDashboard/DashboardReset?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 SQL  ◆  MySQL  ◆  Python  ◆  Tableau Public
 
