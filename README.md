@@ -1,5 +1,8 @@
 # Airline Booking Analytics Dashboard
-[![View Dashboard](https://img.shields.io/badge/View_Interactive_Dashboard-FF6F00?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/AirlineBookingAnalyticsDashboard/DashboardReset)
+
+[![Live Dashboard](https://img.shields.io/badge/Live_Tableau_Dashboard-005571?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/AirlineBookingAnalyticsDashboard/DashboardReset)
+
+End-to-end airline booking analytics project built using SQL, Python, MySQL, and Tableau.
 
 ## Overview
 
