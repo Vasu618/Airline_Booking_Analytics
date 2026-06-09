@@ -1,4 +1,5 @@
 # Airline Booking Analytics Dashboard
+[![View Dashboard](https://img.shields.io/badge/View_Interactive_Dashboard-FF6F00?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/AirlineBookingAnalyticsDashboard/DashboardReset)
 
 ## Overview
 
