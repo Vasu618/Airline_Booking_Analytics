@@ -61,6 +61,16 @@ The project is based on a relational database consisting of the following entiti
 
 ![ER Diagram](images/ER-Diagram.png)
 
+## Database Schema & Relationships
+
+The Tableau data model is built on a relational MySQL database connecting airline, flight, ticket, payment, class, and user entities.
+
+### Data Model
+
+![Database Schema](images/database_schema.png)
+
+---
+
 ---
 
 ## Database Schema
